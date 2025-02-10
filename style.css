@@ -390,3 +390,23 @@ button {
         transform: translateY(0);
     }
 }
+
+footer {
+    background-color: #222; /* Dark background for a sleek look */
+    color: #fff; /* White text for contrast */
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+
+footer a {
+    color: #ffcc00; /* Highlighted email link */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+footer a:hover {
+    color: #ff9900; /* Slight color change on hover */
+}
+
