@@ -409,4 +409,8 @@ footer a {
 footer a:hover {
     color: #ff9900; /* Slight color change on hover */
 }
-
+/*updating website image*/
+.website{
+    width: auto;
+    height: auto;
+}
